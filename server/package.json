@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for Simulator Balloon Competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaAlmeida/balloonCup.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaAlmeida/balloonCup/issues"
+  },
+  "homepage": "https://github.com/JoshuaAlmeida/balloonCup#readme"
+}
