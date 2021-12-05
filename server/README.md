@@ -10,3 +10,11 @@ I created an API in express for that reason I deleted some folders (public and v
  3. I installed express and all dependencies that are required like cookie parser
  4. I use the command express-generator to create a skeleton for the express server
 
+## Create Architecture
+
+In the next steps I will create a new structure:
+
+* Folder Models, using moongose schemas
+* Folder Controlers, for business logic
+* Folder Routing, for create new API routes
+
