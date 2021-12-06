@@ -20,4 +20,4 @@ const CompetitionSchema = new Schema({
     versionKey :false
 })
 
-const Compertition = mongoose.model('Competition', matchSchema);
+const Competition = mongoose.model('Competition', matchSchema);
